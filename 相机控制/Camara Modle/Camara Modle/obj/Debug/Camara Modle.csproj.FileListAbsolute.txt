@@ -1,0 +1,5 @@
+C:\Users\Lin Yue\Desktop\地面站控件\相机控制\Camara Modle\Camara Modle\obj\Debug\Camara Modle.csprojAssemblyReference.cache
+C:\Users\Lin Yue\Desktop\地面站控件\相机控制\Camara Modle\Camara Modle\obj\Debug\GCS.CameraModle.resources
+C:\Users\Lin Yue\Desktop\地面站控件\相机控制\Camara Modle\Camara Modle\obj\Debug\Camara_Modle.Properties.Resources.resources
+C:\Users\Lin Yue\Desktop\地面站控件\相机控制\Camara Modle\Camara Modle\obj\Debug\Camara Modle.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\地面站控件\相机控制\Camara Modle\Camara Modle\obj\Debug\Camara Modle.csproj.CoreCompileInputs.cache
